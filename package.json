@@ -17,15 +17,16 @@
         "@types/fs-extra": "^8.0.1",
         "@types/node": "^12.12.11",
         "@types/pg": "^7.11.2",
-        "fs-extra": "^8.1.0",
-        "dotenv": "^8.2.0",
-        "nodemon": "^1.19.4",
-        "ts-node": "^8.5.2",
-        "typescript": "^3.7.2"
+        "nodemon": "^1.19.4"
+
     },
     "dependencies": {
         "express": "^4.17.1",
         "path": "^0.12.7",
-        "pg": "^7.13.0"
+        "pg": "^7.13.0",
+        "ts-node": "^8.5.2",
+        "typescript": "^3.7.2",
+        "fs-extra": "^8.1.0"
+
     }
 }
